@@ -3,7 +3,7 @@ package com.rjil.cloud.appium.fitnesse;
 import io.appium.java_client.MobileElement;
 
 /**
- * author kalpesh.pingale
+ * 
  * 
  * This class contains ONLY the basic function with no logic defined.
  */
